@@ -1,7 +1,7 @@
-# Yes, she is holding a radish. And yes, I don't know why either.
-![CoolImage](https://media.discordapp.net/attachments/543779600497508352/986246303434571796/unknown.png)
-## 📌 Some information about me
-- ☕ In love with coffee shop's theme
-- 🌿 Touched grass irl not a joke
-- 💻 Newbie in coding stuff
-- 🍜 Have a nice day!
+# 🌿 RichardScull
+Hello, I'm a junior software developer, designer in past, and amateur video editor.
+
+Right now im currently working on refactoring my [Discord bot](https://github.com/richardscull/RichardsCoffeeShop)!
+
+## 📋 Contact me
+If you need to reach me, the best way is through Discord at  **A cup of tea "Richard"#4233** or Telegram at [**@richardscull**](https://t.me/richardscull)
