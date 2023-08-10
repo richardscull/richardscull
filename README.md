@@ -8,7 +8,8 @@ Probably at this time I am learning Go for a study purposes 🧾
 
 - [WebDiscordStatus](https://github.com/richardscull/WebDiscordStatus) - Simple webpage that allows people to check your Discord status quickly and easily. 
 - [RichardsMusicBot](https://github.com/richardscull/RichardsMusicBot) - Discord bot for playing music from youtube and spotify! (It has sweet design and cool features) 
-- [RichardsDiscordBot](https://github.com/richardscull/RichardsCoffeeShop) - Discord bot which originally had music commands, but now it's more focused on commands for game called "osu!". 
+- [RichardsDiscordBot](https://github.com/richardscull/RichardsCoffeeShop) - Discord bot which originally had music commands, but now it's more focused on commands for game called "osu!".
+- [RichardsBlog](https://github.com/richardscull/RichardsBlog) - My personal blog page. Currently work in progress.
 
 
 
