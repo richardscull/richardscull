@@ -9,6 +9,7 @@ Studying in kood/Jõhvi and working on side projects
 - [Richard's Music Bot](https://github.com/richardscull/RichardsMusicBot) - Discord bot for playing music from youtube and spotify! (It has sweet design and cool features) 
 - [Richard's Discord Bot](https://github.com/richardscull/RichardsCoffeeShop) - Discord bot which originally had music commands, but now it's more focused on commands for game called "osu!".
 - [Web Discord Status](https://github.com/richardscull/WebDiscordStatus) - Simple webpage that allows people to check your Discord status quickly and easily.
+- [Osu Songs Mashup](https://github.com/richardscull/Osu-Songs-Mashup) - CLI tool that combines two osu! beatmaps. 
   
 ###### 📃: Yes, I add "Richard's" to almost all of my project names.
 
