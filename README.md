@@ -1,5 +1,5 @@
 # 🌿 RichardScull
-Hello, I'm a junior software developer, designer in past, and amateur video editor.
+Hello, I'm a junior software engineer, designer in past, and amateur video editor.
 
 Studying in kood/Jõhvi and working on side projects
 
