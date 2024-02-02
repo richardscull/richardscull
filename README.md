@@ -1,4 +1,4 @@
-# 🌿 RichardScull
+# 🌿 RichardScull <img align="right" src="https://raw.githubusercontent.com/richardscull/richardscull/main/profile.png" width="200" />
 Hello, I'm a junior software engineer, designer in past, and amateur video editor.
 
 Studying in kood/Jõhvi and working on side projects
