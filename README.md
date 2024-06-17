@@ -8,7 +8,7 @@ Studying in kood/Jõhvi and working on side projects
 - [Yet Another Bomb Party Clone](https://github.com/richardscull/YetAnotherBombPartyClone) - Clone of the popular game "Bomb Party" made on Next.js 
 - [TwitchNotifier](https://github.com/richardscull/TwitchNotifier) - Telegram bot that notifies you when a streamer goes live 
 - [Osu Songs Mashup](https://github.com/richardscull/Osu-Songs-Mashup) - CLI tool that combines two osu! beatmaps.
-- [Web Discord Status](https://github.com/richardscull/WebDiscordStatus) - Simple webpage that allows people to check your Discord status quickly and easily.
+- [yoshina-yt](https://github.com/richardscull/yoshina-yt) - Twitch song request via custom reward's bot for web player with support of YouTube and Spotify!
 - [Richard's Blog](https://github.com/richardscull/Richards-Blog) - A blog page application builded on Next.js, who offering support for markdown-based posts.
 - [Richard's Music Bot](https://github.com/richardscull/RichardsMusicBot) - Discord bot for playing music from youtube and spotify! (It has sweet design and cool features)
 
