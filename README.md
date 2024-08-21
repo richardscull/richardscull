@@ -1,9 +1,9 @@
-# 🌿 RichardScull <img align="right" src="https://raw.githubusercontent.com/richardscull/richardscull/main/profile.png" width="250" />
+# 🌿 RichardScull
 Hello, I'm a junior software engineer, designer in past, and amateur video editor.
 
 Studying in kood/Jõhvi and working on side projects
 
-## 🪴 My projects
+## 🪴 My projects <img align="right" src="https://raw.githubusercontent.com/richardscull/richardscull/main/profile.png" width="250" />
 - [✨ osutify](https://github.com/richardscull/osutify) - My newest project | Fully functional spotify clone with songs from osu! 
 - [Yet Another Bomb Party Clone](https://github.com/richardscull/YetAnotherBombPartyClone) - Clone of the popular game "Bomb Party" made on Next.js 
 - [TwitchNotifier](https://github.com/richardscull/TwitchNotifier) - Telegram bot that notifies you when a streamer goes live 
