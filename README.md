@@ -1,15 +1,15 @@
-# 🌿 RichardScull
+# 🌿 RichardScull <img align="right" src="https://raw.githubusercontent.com/richardscull/richardscull/main/profile.png" width="250" />
 Hello, I'm a junior software engineer, designer in past, and amateur video editor.
 
 Studying in kood/Jõhvi and working on side projects
 
-## 🌻 Sunrise Community 
+## 🌻 Sunrise Community  
 
 I'm also one of the developers of the Sunrise (osu! Server), and I would really like if you would check it out!
 
 You can check the server [here](https://osu-sunrise.top)!
 
-## 🪴 My projects <img align="right" src="https://raw.githubusercontent.com/richardscull/richardscull/main/profile.png" width="250" />
+## 🪴 My projects 
 #### Current projects:
 - [🌅 Sunrise](https://github.com/SunriseCommunity/Sunrise) - osu! private server written in C#
 - [🌇 Sunset](https://github.com/SunriseCommunity/Sunset) - frontend for osu!sunrise
