@@ -22,3 +22,5 @@ You can check the server [here](https://sunrize.uk)!
 
 ## 📋 Contact me
 If you need to reach me, the best way is through Discord at [**richardscull**](https://discordapp.com/users/228223085759692802) or Telegram at [**@richardscull**](https://t.me/richardscull)
+
+My Boosty: https://boosty.to/richardscull
